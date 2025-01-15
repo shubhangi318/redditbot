@@ -1,0 +1,171 @@
+2025-01-15 14:55:46,316 - Bot will post daily at 14:57 and comment every 72 hours. Waiting for the scheduled time...
+2025-01-15 14:57:03,230 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 14:57:03,240 - AI content generated successfully.
+2025-01-15 14:57:05,402 - AI-generated post submitted successfully!
+2025-01-15 15:45:35,908 - Bot will post daily at 14:57 and comment every 72 hours. Waiting for the scheduled time...
+2025-01-15 15:50:39,230 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 15:50:39,239 - AI content generated successfully.
+2025-01-15 15:50:39,793 - Comment posted on the latest post: AI Daily Post
+2025-01-15 15:55:37,789 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 15:55:37,800 - AI content generated successfully.
+2025-01-15 15:55:39,214 - AI-generated post submitted successfully!
+2025-01-15 15:55:40,332 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:00:40,510 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:05:41,639 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 16:05:41,652 - AI content generated successfully.
+2025-01-15 16:05:43,274 - AI-generated post submitted successfully!
+2025-01-15 16:05:44,446 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:10:44,641 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:15:45,677 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 16:15:45,686 - AI content generated successfully.
+2025-01-15 16:15:47,133 - AI-generated post submitted successfully!
+2025-01-15 16:15:48,295 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:20:48,437 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 16:51:25,094 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 16:56:29,150 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 16:56:29,158 - AI content generated successfully.
+2025-01-15 16:56:29,708 - Comment posted on the latest post: test syntax
+2025-01-15 17:01:27,970 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:01:27,981 - AI content generated successfully.
+2025-01-15 17:01:29,402 - AI-generated post submitted successfully!
+2025-01-15 17:01:30,542 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 17:11:19,126 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 17:16:23,546 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:16:23,556 - AI content generated successfully.
+2025-01-15 17:16:24,175 - Comment posted on the latest post: test syntax
+2025-01-15 17:21:21,854 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:21:21,858 - AI content generated successfully.
+2025-01-15 17:21:23,388 - AI-generated post submitted successfully!
+2025-01-15 17:21:24,502 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 17:26:25,116 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 17:31:25,991 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:31:25,996 - AI content generated successfully.
+2025-01-15 17:31:27,496 - AI-generated post submitted successfully!
+2025-01-15 17:31:28,591 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 17:36:28,799 - Not yet time to comment on the latest post. Skipping...
+2025-01-15 17:37:19,423 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 17:42:22,773 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:42:22,787 - AI content generated successfully.
+2025-01-15 17:42:23,330 - Comment posted on the latest post: BBC Is Preparing a Major Sitcom and the Company Shortlist Has Been Revealed
+2025-01-15 17:47:22,228 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 17:47:22,232 - AI content generated successfully.
+2025-01-15 17:55:03,925 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:00:07,503 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:00:07,511 - AI content generated successfully.
+2025-01-15 18:00:08,104 - Comment posted on the latest post: Fãs de Fringe/Fronteiras, atendam ao chamado! Manifestem-se aqui e mostrem que ainda estamos por aí! 
+2025-01-15 18:02:12,673 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:07:15,914 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:07:15,929 - AI content generated successfully.
+2025-01-15 18:07:16,523 - Comment posted on the latest post: Fãs de Fringe/Fronteiras, atendam ao chamado! Manifestem-se aqui e mostrem que ainda estamos por aí! 
+2025-01-15 18:12:15,357 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:12:15,364 - AI content generated successfully.
+2025-01-15 18:12:25,935 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:13:22,772 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:14:25,372 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:14:25,379 - AI content generated successfully.
+2025-01-15 18:15:58,015 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:25:41,762 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:26:06,298 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:29:16,382 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:34:19,948 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:34:19,958 - AI content generated successfully.
+2025-01-15 18:34:20,540 - Comment posted on the latest post: Fãs de Fringe/Fronteiras, atendam ao chamado! Manifestem-se aqui e mostrem que ainda estamos por aí! 
+2025-01-15 18:34:49,825 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:35:53,258 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:35:53,263 - AI content generated successfully.
+2025-01-15 18:36:45,300 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:37:47,946 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:37:47,953 - AI content generated successfully.
+2025-01-15 18:37:49,584 - AI-generated post submitted successfully!
+2025-01-15 18:38:51,639 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:38:51,644 - AI content generated successfully.
+2025-01-15 18:38:53,207 - AI-generated post submitted successfully!
+2025-01-15 18:39:53,529 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:44:32,931 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:45:35,608 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:45:35,615 - AI content generated successfully.
+2025-01-15 18:46:03,568 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:47:06,430 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:47:06,436 - AI content generated successfully.
+2025-01-15 18:47:08,096 - AI-generated post submitted successfully!
+2025-01-15 18:48:10,541 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:48:10,542 - AI content generated successfully.
+2025-01-15 18:48:12,068 - AI-generated post submitted successfully!
+2025-01-15 18:49:14,363 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:49:14,368 - AI content generated successfully.
+2025-01-15 18:49:15,778 - AI-generated post submitted successfully!
+2025-01-15 18:50:18,128 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:50:18,133 - AI content generated successfully.
+2025-01-15 18:50:20,075 - AI-generated post submitted successfully!
+2025-01-15 18:50:43,089 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:51:45,998 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:51:46,002 - AI content generated successfully.
+2025-01-15 18:51:47,524 - AI-generated post submitted successfully!
+2025-01-15 18:52:49,881 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:52:49,890 - AI content generated successfully.
+2025-01-15 18:52:51,812 - AI-generated post submitted successfully!
+2025-01-15 18:53:54,602 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:53:54,612 - AI content generated successfully.
+2025-01-15 18:53:56,082 - AI-generated post submitted successfully!
+2025-01-15 18:54:23,110 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:55:17,005 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 18:56:20,115 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:56:20,123 - AI content generated successfully.
+2025-01-15 18:56:21,579 - AI-generated post submitted successfully!
+2025-01-15 18:57:23,974 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:57:23,982 - AI content generated successfully.
+2025-01-15 18:57:25,615 - AI-generated post submitted successfully!
+2025-01-15 18:58:28,015 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:58:28,034 - AI content generated successfully.
+2025-01-15 18:58:29,488 - AI-generated post submitted successfully!
+2025-01-15 18:59:31,564 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 18:59:31,571 - AI content generated successfully.
+2025-01-15 18:59:33,005 - AI-generated post submitted successfully!
+2025-01-15 19:00:21,366 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:00:21,370 - AI content generated successfully.
+2025-01-15 19:00:22,000 - Comment posted on the latest post: Fãs de Fringe/Fronteiras, atendam ao chamado! Manifestem-se aqui e mostrem que ainda estamos por aí! 
+2025-01-15 19:00:31,856 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 19:01:34,993 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:01:34,999 - AI content generated successfully.
+2025-01-15 19:01:36,439 - AI-generated post submitted successfully!
+2025-01-15 19:02:38,993 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:02:39,000 - AI content generated successfully.
+2025-01-15 19:02:41,348 - AI-generated post submitted successfully!
+2025-01-15 19:03:43,663 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:03:43,667 - AI content generated successfully.
+2025-01-15 19:03:45,246 - AI-generated post submitted successfully!
+2025-01-15 19:04:47,394 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:04:47,399 - AI content generated successfully.
+2025-01-15 19:04:49,451 - AI-generated post submitted successfully!
+2025-01-15 19:05:35,836 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:05:35,837 - AI content generated successfully.
+2025-01-15 19:05:36,402 - Comment posted on the latest post: Fãs de Fringe/Fronteiras, atendam ao chamado! Manifestem-se aqui e mostrem que ainda estamos por aí! 
+2025-01-15 19:05:52,335 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:05:52,337 - AI content generated successfully.
+2025-01-15 19:05:54,825 - AI-generated post submitted successfully!
+2025-01-15 19:06:56,806 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:06:56,808 - AI content generated successfully.
+2025-01-15 19:06:58,287 - AI-generated post submitted successfully!
+2025-01-15 19:08:00,430 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:08:00,433 - AI content generated successfully.
+2025-01-15 19:08:01,963 - AI-generated post submitted successfully!
+2025-01-15 19:08:12,135 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 19:09:15,795 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:09:15,804 - AI content generated successfully.
+2025-01-15 19:09:17,213 - AI-generated post submitted successfully!
+2025-01-15 19:10:19,770 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:10:19,773 - AI content generated successfully.
+2025-01-15 19:10:21,210 - AI-generated post submitted successfully!
+2025-01-15 19:11:23,835 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:11:23,838 - AI content generated successfully.
+2025-01-15 19:32:32,456 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 19:33:35,609 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:33:35,619 - AI content generated successfully.
+2025-01-15 19:33:37,145 - AI-generated post submitted successfully!
+2025-01-15 19:34:01,248 - Bot will post daily at 14:57 and comment once every 72 hours. Waiting for the scheduled time...
+2025-01-15 19:35:04,903 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:35:04,912 - AI content generated successfully.
+2025-01-15 19:35:06,381 - AI-generated post submitted successfully!
+2025-01-15 19:36:09,413 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-15 19:36:09,416 - AI content generated successfully.
+2025-01-15 19:36:10,847 - AI-generated post submitted successfully!
