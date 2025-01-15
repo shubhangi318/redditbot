@@ -1,71 +1,19 @@
-import os
-import spacy
 import praw
 import schedule
 import time as t
 from datetime import datetime
 import logging
-from groq import Groq
-import random
+from utils import generate_ai_content, extract_keyword_from_content, generate_dynamic_title
 
-os.environ["GROQ_API_KEY"] = "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"
-nlp = spacy.load("en_core_web_sm")
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 last_posted_time = None
-last_commented_time = None 
+last_commented_time = None
 
 logging.basicConfig(
     filename='reddit_posting_bot.log',
     level=logging.INFO,
     format='%(asctime)s - %(message)s'
 )
-
-# Initial prompt for daily post
-current_prompt = "Write a sci-fi story where a character relives the same event over and over again."
-
-def generate_ai_content(prompt):
-    try:
-        chat_completion = client.chat.completions.create(
-            messages=[{"role": "user", "content": prompt}],
-            model="llama3-70b-8192",
-        )
-        logging.info("AI content generated successfully.")
-        return chat_completion.choices[0].message.content.strip()
-    except Exception as e:
-        logging.error(f"Error while calling the Groq API: {e}")
-        return None
-
-# Function to extract relevant keyword/topic from the generated content using NLP
-def extract_keyword_from_content(content):
-    doc = nlp(content)
-    keywords = []
-
-    # Extract Named Entities or Noun Chunks
-    for ent in doc.ents:
-        keywords.append(ent.text)
-    
-    if not keywords:
-        for chunk in doc.noun_chunks:
-            keywords.append(chunk.text)
-    
-    return keywords[0] if keywords else "technology"
-
-import re
-
-def generate_dynamic_title(ai_content):
-    first_sentence = ai_content.split('.')[0]
-    first_sentence = re.sub(r'[^\w\s]', '', first_sentence).strip()
-
-    if len(first_sentence) < 10:
-        ai_content = ai_content.strip()
-        words = ai_content.split()
-        first_few_words = " ".join(words[:6])
-        first_sentence = f"{first_few_words}..."
-    
-    title = f"{first_sentence}"
-
-    return title
 
 # Function to post to the subreddit
 def post_to_reddit():
@@ -79,9 +27,9 @@ def post_to_reddit():
     reddit = praw.Reddit(
         client_id="S0raxummY9kErUI9KPO4Hg",
         client_secret="UeA7JWAHohxTA0vVBBFxrH7Y4k8Chg",
-        user_agent="script:daily_post_bot:v1.0 (by u/Funny-Use-6422)",
-        username="Funny-Use-6422",
-        password="I@Mshubhangi318"
+        user_agent="script:daily_post_bot:v1.0 (by u/{your_user_name})",
+        username="your_user_name",
+        password="your_password"
     )
 
     subreddit = reddit.subreddit("test")
@@ -112,9 +60,9 @@ def comment_on_latest_post():
     reddit = praw.Reddit(
         client_id="S0raxummY9kErUI9KPO4Hg",
         client_secret="UeA7JWAHohxTA0vVBBFxrH7Y4k8Chg",
-        user_agent="script:daily_post_bot:v1.0 (by u/Funny-Use-6422)",
-        username="Funny-Use-6422",
-        password="I@Mshubhangi318"
+        user_agent="script:daily_post_bot:v1.0 (by u/{your_user_name})",
+        username="your_user_name",
+        password="your_password",
     )
 
     subreddit = reddit.subreddit("series")
@@ -151,6 +99,6 @@ def schedule_tasks():
         t.sleep(1)
 
 if __name__ == "__main__":
+    # Initial prompt for daily post
+    current_prompt = "Write a sci-fi story where a character relives the same event over and over again."
     schedule_tasks()
-
-
